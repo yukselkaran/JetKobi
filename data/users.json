@@ -1,0 +1,39 @@
+{
+  "kobi": {
+    "password": "123",
+    "role": "KOBİ",
+    "name": "Kobi İsmi"
+  },
+  "ahmet": {
+    "password": "456",
+    "role": "Müşteri",
+    "name": "Ahmet Yılmaz",
+    "order_ids": [
+      "128"
+    ]
+  },
+  "ayse": {
+    "password": "789",
+    "role": "Müşteri",
+    "name": "Ayşe Kaya",
+    "order_ids": [
+      "129"
+    ]
+  },
+  "mehmet": {
+    "password": "321",
+    "role": "Müşteri",
+    "name": "Mehmet Demir",
+    "order_ids": [
+      "130"
+    ]
+  },
+  "fatma": {
+    "password": "654",
+    "role": "Müşteri",
+    "name": "Fatma Şahin",
+    "order_ids": [
+      "131"
+    ]
+  }
+}

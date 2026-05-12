@@ -1,0 +1,57 @@
+{
+  "128": {
+    "musteri": "Ahmet Yılmaz",
+    "musteri_id": "ahmet",
+    "urunler": [
+      "domates 5kg",
+      "biber 2kg"
+    ],
+    "durum": "kargoda",
+    "kargo_firmasi": "MNG Kargo",
+    "takip_no": "MNG123456",
+    "kargo_durum": "yolda",
+    "tahmini_teslimat": "2026-05-13",
+    "tarih": "2026-05-11"
+  },
+  "129": {
+    "musteri": "Ayşe Kaya",
+    "musteri_id": "ayse",
+    "urunler": [
+      "patlıcan 3kg"
+    ],
+    "durum": "iptal",
+    "kargo_firmasi": null,
+    "takip_no": null,
+    "kargo_durum": "gecikme_riski",
+    "tahmini_teslimat": null,
+    "tarih": "2026-05-12"
+  },
+  "130": {
+    "musteri": "Mehmet Demir",
+    "musteri_id": "mehmet",
+    "urunler": [
+      "domates 10kg",
+      "salatalık 4kg"
+    ],
+    "durum": "teslim edildi",
+    "kargo_firmasi": "Yurtiçi Kargo",
+    "takip_no": "YK789012",
+    "kargo_durum": "teslim_edildi",
+    "tahmini_teslimat": "2026-05-10",
+    "tarih": "2026-05-10"
+  },
+  "131": {
+    "musteri": "Fatma Şahin",
+    "musteri_id": "fatma",
+    "urunler": [
+      "biber 1kg",
+      "salatalık 2kg"
+    ],
+    "durum": "iptal",
+    "kargo_firmasi": null,
+    "takip_no": null,
+    "kargo_durum": "iptal",
+    "tahmini_teslimat": null,
+    "tarih": "2026-05-12"
+  }
+}

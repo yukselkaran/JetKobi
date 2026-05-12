@@ -1,0 +1,32 @@
+{
+  "domates": {
+    "miktar": 50,
+    "birim": "kg",
+    "esik": 50,
+    "fiyat": 12.5
+  },
+  "biber": {
+    "miktar": 32,
+    "birim": "kg",
+    "esik": 30,
+    "fiyat": 18.0
+  },
+  "patlican": {
+    "miktar": 45,
+    "birim": "kg",
+    "esik": 20,
+    "fiyat": 15.0
+  },
+  "salatalik": {
+    "miktar": 30,
+    "birim": "kg",
+    "esik": 25,
+    "fiyat": 10.0
+  },
+  "kabak": {
+    "miktar": 60,
+    "birim": "kg",
+    "esik": 20,
+    "fiyat": 8.0
+  }
+}
